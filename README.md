@@ -6,7 +6,6 @@ In this lab, I explored Linux text editors and configuration files. The objectiv
 - Practice with command-line editors.  
 - Edit and manage configuration files for system services.  
 
----
 
 ## 📝 Part 1: Graphical Text Editors  
 
@@ -29,7 +28,7 @@ Closed SciTE with CTRL+C.
 Q: Why was the prompt not shown in the terminal?
 A: Because the terminal was running SciTE until it was stopped.
 
-📝 Part 2: Command Line Text Editors
+## 📝 Part 2: Command Line Text Editors 
 
 Opened space.txt with nano:
 
@@ -45,7 +44,8 @@ A: The > or $ symbol, depending on nano version.
 
 Exited nano with CTRL+X.
 
-📝 Part 3: Working with Configuration Files
+## 📝 Part 3: Working with Configuration Files
+
 Step 1: User vs System Config Files
 cat .bashrc
 
@@ -57,7 +57,7 @@ System-wide configs live in /etc.
 Q: Why not store user configs in /etc?
 A: Regular users don’t have write permissions in /etc.
 
-### Step 2: Editing .bashrc
+ Step 2: Editing .bashrc
 
 Changed color code in prompt:
 
@@ -77,7 +77,7 @@ bash
 
 Prompt turned yellow. ✅
 
-### Step 3: Editing nginx Configuration
+ Step 3: Editing nginx Configuration
 
 Opened file:
 
