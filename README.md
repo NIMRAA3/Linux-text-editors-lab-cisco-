@@ -92,6 +92,7 @@
 * Understood that changes often require **service restart/reload** to take effect.
 
 [click here](https://github.com/NIMRAA3/Linux-text-editors-lab-cisco-/blob/main/66.jpg)
+[click here](https://github.com/NIMRAA3/Linux-text-editors-lab-cisco-/blob/main/Cybersecurity%20LabVM%20Worksation%2020250409%205%20%5BRunning%5D%20-%20Oracle%20VirtualBox%209_22_2025%2012_00_33%20AM.png)
 
 
 
