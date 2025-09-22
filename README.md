@@ -91,9 +91,12 @@
 * Reinforced importance of permissions in Linux.
 * Understood that changes often require **service restart/reload** to take effect.
 
+[click here](https://github.com/NIMRAA3/Linux-text-editors-lab-cisco-/blob/main/66.jpg)
 
-![66](https://github.com/user-attachments/assets/8bdfe119-58a3-49b7-a9a1-bd70cc13aae3)
-<img width="1366" height="705" alt="Cybersecurity LabVM Worksation 20250409 5  Running  - Oracle VirtualBox 9_22_2025 12_00_33 AM" src="https://github.com/user-attachments/assets/585cdbb3-a6c0-4fcc-8551-092cf41e098c" />
+
+
+
+
 
 
 
